@@ -31,15 +31,15 @@
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BcL-yz-Yoa">
-                                            <rect key="frame" x="43" y="53.666666666666657" width="42" height="21"/>
+                                            <rect key="frame" x="43.333333333333329" y="53.666666666666657" width="41.333333333333329" height="21"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                             <nil key="textColor"/>
                                             <nil key="highlightedColor"/>
                                         </label>
                                     </subviews>
                                     <constraints>
-                                        <constraint firstItem="BcL-yz-Yoa" firstAttribute="centerX" secondItem="Z2E-Ac-cCa" secondAttribute="centerX" id="Fbj-zd-XTU"/>
-                                        <constraint firstItem="BcL-yz-Yoa" firstAttribute="centerY" secondItem="Z2E-Ac-cCa" secondAttribute="centerY" id="KnZ-e4-won"/>
+                                        <constraint firstItem="BcL-yz-Yoa" firstAttribute="centerY" secondItem="Z2E-Ac-cCa" secondAttribute="centerY" id="cXB-aC-ZNM"/>
+                                        <constraint firstItem="BcL-yz-Yoa" firstAttribute="centerX" secondItem="Z2E-Ac-cCa" secondAttribute="centerX" id="mDk-4g-Ukb"/>
                                     </constraints>
                                 </collectionViewCellContentView>
                                 <color key="backgroundColor" systemColor="systemTealColor"/>
